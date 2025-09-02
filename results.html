@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Results - Choice Voting</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <header class="header">
+    <div class="logo">Choice</div>
+    <h1 id="eventTitle">Results</h1>
+    <div style="margin-top:8px">
+      <a class="btn btn-ghost" href="vote.html">← Back to Events</a>
+    </div>
+  </header>
+
+  <div class="container">
+    <div id="eventResults">Loading...</div>
+  </div>
+
+  <footer>&copy; <span id="year"></span> Choice Voting App</footer>
+  <script src="results.js"></script>
+  <script>document.getElementById('year').textContent = new Date().getFullYear()</script>
+</body>
+</html>

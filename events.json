@@ -1,0 +1,116 @@
+{
+  "events": [
+    {
+      "id": "music",
+      "name": "Music Awards",
+      "nominees": [
+        { "id": "m1", "name": "Nominee 1","image": "assets/nominees/music1.jpg" },
+        { "id": "m2", "name": "Nominee 2", "image": "assets/nominees/music2.jpg" },
+        { "id": "m3", "name": "Nominee 3", "image": "assets/nominees/music3.jpg" },
+        { "id": "m4", "name": "Nominee 4", "image": "assets/nominees/music4.jpg" },
+        { "id": "m5", "name": "Nominee 5", "image": "assets/nominees/music5.jpg" },
+        { "id": "m6", "name": "Nominee 6", "image": "assets/nominees/music6.jpg" },
+        { "id": "m7", "name": "Nominee 7", "image": "assets/nominees/music7.jpg" },
+        { "id": "m8", "name": "Nominee 8", "image": "assets/nominees/music8.jpg" },
+        { "id": "m9", "name": "Nominee 9", "image": "assets/nominees/music9.jpg" },
+        { "id": "m10", "name": "Nominee 10", "image": "assets/nominees/music10.jpg" }
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "Sports Awards",
+      "nominees": [
+        { "id": "s1", "name": "Nominee 1", "image": "assets/nominees/sports1.jpg" },
+        { "id": "s2", "name": "Nominee 2", "image": "assets/nominees/sports2.jpg" },
+        { "id": "s3", "name": "Nominee 3", "image": "assets/nominees/sports3.jpg" },
+        { "id": "s4", "name": "Nominee 4", "image": "assets/nominees/sports4.jpg" },
+        { "id": "s5", "name": "Nominee 5", "image": "assets/nominees/sports5.jpg" },
+        { "id": "s6", "name": "Nominee 6", "image": "assets/nominees/sports6.jpg" },
+        { "id": "s7", "name": "Nominee 7", "image": "assets/nominees/sports7.jpg" },
+        { "id": "s8", "name": "Nominee 8", "image": "assets/nominees/sports8.jpg" },
+        { "id": "s9", "name": "Nominee 9", "image": "assets/nominees/sports9.jpg" },
+        { "id": "s10", "name": "Nominee 10", "image": "assets/nominees/sports10.jpg" }
+      ]
+    },
+    {
+      "id": "film",
+      "name": "Film Awards",
+      "nominees": [
+        { "id": "f1", "name": "Nominee 1", "image": "assets/nominees/film1.jpg" },
+        { "id": "f2", "name": "Nominee 2", "image": "assets/nominees/film2.jpg" },
+        { "id": "f3", "name": "Nominee 3", "image": "assets/nominees/film3.jpg" },
+        { "id": "f4", "name": "Nominee 4", "image": "assets/nominees/film4.jpg" },
+        { "id": "f5", "name": "Nominee 5", "image": "assets/nominees/film5.jpg" },
+        { "id": "f6", "name": "Nominee 6", "image": "assets/nominees/film6.jpg" },
+        { "id": "f7", "name": "Nominee 7", "image": "assets/nominees/film7.jpg" },
+        { "id": "f8", "name": "Nominee 8", "image": "assets/nominees/film8.jpg" },
+        { "id": "f9", "name": "Nominee 9", "image": "assets/nominees/film9.jpg" },
+        { "id": "f10", "name": "Nominee 10", "image": "assets/nominees/film10.jpg" }
+      ]
+    },
+    {
+      "id": "education",
+      "name": "Education Awards",
+      "nominees": [
+        { "id": "e1", "name": "Nominee 1", "image": "assets/nominees/edu1.jpg" },
+        { "id": "e2", "name": "Nominee 2", "image": "assets/nominees/edu2.jpg" },
+        { "id": "e3", "name": "Nominee 3", "image": "assets/nominees/edu3.jpg" },
+        { "id": "e4", "name": "Nominee 4", "image": "assets/nominees/edu4.jpg" },
+        { "id": "e5", "name": "Nominee 5", "image": "assets/nominees/edu5.jpg" },
+        { "id": "e6", "name": "Nominee 6", "image": "assets/nominees/edu6.jpg" },
+        { "id": "e7", "name": "Nominee 7", "image": "assets/nominees/edu7.jpg" },
+        { "id": "e8", "name": "Nominee 8", "image": "assets/nominees/edu8.jpg" },
+        { "id": "e9", "name": "Nominee 9", "image": "assets/nominees/edu9.jpg" },
+        { "id": "e10", "name": "Nominee 10", "image": "assets/nominees/edu10.jpg" }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "Technology Awards",
+      "nominees": [
+        { "id": "t1", "name": "Nominee 1", "image": "assets/nominees/tech1.jpg" },
+        { "id": "t2", "name": "Nominee 2", "image": "assets/nominees/tech2.jpg" },
+        { "id": "t3", "name": "Nominee 3", "image": "assets/nominees/tech3.jpg" },
+        { "id": "t4", "name": "Nominee 4", "image": "assets/nominees/tech4.jpg" },
+        { "id": "t5", "name": "Nominee 5", "image": "assets/nominees/tech5.jpg" },
+        { "id": "t6", "name": "Nominee 6", "image": "assets/nominees/tech6.jpg" },
+        { "id": "t7", "name": "Nominee 7", "image": "assets/nominees/tech7.jpg" },
+        { "id": "t8", "name": "Nominee 8", "image": "assets/nominees/tech8.jpg" },
+        { "id": "t9", "name": "Nominee 9", "image": "assets/nominees/tech9.jpg" },
+        { "id": "t10", "name": "Nominee 10", "image": "assets/nominees/tech10.jpg" }
+      ]
+    },
+    {
+      "id": "community",
+      "name": "Community Awards",
+      "nominees": [
+        { "id": "c1", "name": "Nominee 1", "image": "assets/nominees/com1.jpg" },
+        { "id": "c2", "name": "Nominee 2", "image": "assets/nominees/com2.jpg" },
+        { "id": "c3", "name": "Nominee 3", "image": "assets/nominees/com3.jpg" },
+        { "id": "c4", "name": "Nominee 4", "image": "assets/nominees/com4.jpg" },
+        { "id": "c5", "name": "Nominee 5", "image": "assets/nominees/com5.jpg" },
+        { "id": "c6", "name": "Nominee 6", "image": "assets/nominees/com6.jpg" },
+        { "id": "c7", "name": "Nominee 7", "image": "assets/nominees/com7.jpg" },
+        { "id": "c8", "name": "Nominee 8", "image": "assets/nominees/com8.jpg" },
+        { "id": "c9", "name": "Nominee 9", "image": "assets/nominees/com9.jpg" },
+        { "id": "c10", "name": "Nominee 10", "image": "assets/nominees/com10.jpg" }
+      ]
+    },
+    {
+      "id": "film2",
+      "name": "Film Awards 2",
+      "nominees": [
+        { "id": "f21", "name": "Nominee 1", "image": "assets/nominees/film11.jpg"  },
+        { "id": "f22", "name": "Nominee 2", "image": "assets/nominees/film12.jpg" },
+        { "id": "f23", "name": "Nominee 3", "image": "assets/nominees/film13.jpg" },
+        { "id": "f24", "name": "Nominee 4", "image": "assets/nominees/film14.jpg" },
+        { "id": "f25", "name": "Nominee 5", "image": "assets/nominees/film15.jpg" },
+        { "id": "f26", "name": "Nominee 6", "image": "assets/nominees/film16.jpg" },
+        { "id": "f27", "name": "Nominee 7", "image": "assets/nominees/film17.jpg" },
+        { "id": "f28", "name": "Nominee 8", "image": "assets/nominees/film18.jpg" },
+        { "id": "f29", "name": "Nominee 9", "image": "assets/nominees/film19.jpg" },
+        { "id": "f30", "name": "Nominee 10", "image": "assets/nominees/film20.jpg" }
+      ]
+    }
+  ]
+}

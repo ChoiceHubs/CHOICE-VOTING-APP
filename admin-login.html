@@ -1,0 +1,29 @@
+<!doctype html> 
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Admin Login - Choice Voting</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="logo">Choice</div>
+    <h1>Administrator Login</h1>
+    <p class="tagline">Enter password to view results</p>
+  </header>
+
+  <div class="container" style="text-align:center">
+    <form id="adminForm" style="margin-top:18px">
+      <input id="adminPass" type="password" placeholder="Password" style="padding:10px;border-radius:8px;border:1px solid #ccc" />
+      <button class="btn btn-primary" type="submit" style="margin-left:8px">Login</button>
+    </form>
+    <p id="adminMsg" style="color:tomato;margin-top:8px"></p>
+  </div>
+
+  <footer>&copy; <span id="year"></span> Choice Voting App</footer>
+
+  <script src="admin.js"></script>
+  <script>document.getElementById('year').textContent = new Date().getFullYear()</script>
+</body>
+</html>

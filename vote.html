@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Vote - Choice Voting</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="logo">Choice</div>
+    <h1>Vote for Your Favorites</h1>
+    <p class="tagline">Click an event to view nominees and vote</p>
+  </header>
+
+  <div class="container">
+    <div id="eventsGrid" class="events-grid"></div>
+  </div>
+
+  <footer>&copy; <span id="year"></span> Choice Voting App</footer>
+
+  <script src="vote.js"></script>
+  <script>document.getElementById('year').textContent = new Date().getFullYear()</script>
+</body>
+</html>
